@@ -6,7 +6,7 @@ namespace Practical
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Practcail session Alfred ");
+            Console.WriteLine("Practcail session Alfred 2021/08/20 ");
             Console.WriteLine();
 
         }
